@@ -1,49 +1,49 @@
-clase_id,grupo,turno_inferido,materia,profesor,horas_semana,num_sesiones_requeridas,tipo_aula_requerido,equipamiento_requerido,software_requerido
-1,1DSAA,Diurno,FÍSICA I,RODRIGUEZ FLORES MARIA FERNANDA,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-2,2DSA,Diurno,ADMINISTRACIÓN DE LAS ORGANIZACIONES,ALFÉREZ RODRÍGUEZ EVARISTO,3,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-3,2DSAA,Diurno,ADMINISTRACIÓN DE LAS ORGANIZACIONES,LUNA RENTERÍA JOSÉ LUIS,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-4,2DSAA,Diurno,CÁLCULO DIFERENCIAL,CORTÉS RAYGOZA CRISTINA ELIZABETH,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-5,2DSA,Diurno,CÁLCULO DIFERENCIAL,SALAS RAMOS BRENDA MARGARITA,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-6,2DSAA,Diurno,COMUNICACIÓN EFECTIVA,HERRERA HERNANDEZ ALEJANDRO,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-7,2DSA,Diurno,COMUNICACIÓN EFECTIVA,LUNA RENTERÍA JOSÉ LUIS,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-8,2DSA,Diurno,FÍSICA II,RAMIREZ GOMEZ PAMELA ESTEFANY,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-9,2DSAA,Diurno,FÍSICA II,SALAS RAMOS BRENDA MARGARITA,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-10,3DSA,Diurno,CÁLCULO INTEGRAL,FLORES GONZALEZ LEONARDO,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-11,3DSAA,Diurno,CÁLCULO INTEGRAL,HERNÁNDEZ OVALLE RAUL MIGUEL,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-12,3DSA,Diurno,CONTABILIDAD FINANCIERA,FARIAS VALDES LUIS,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-13,3DSAA,Diurno,CONTABILIDAD FINANCIERA,JIMENEZ SOLIS LESLIE BETHSAYRA,3,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-14,3DSAA,Diurno,ESTRUCTURA DE DATOS,ADAME LEYVA DAVID ERNESTO,5,2,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,"IDE, compilador"
-15,3DSA,Diurno,ESTRUCTURA DE DATOS,NEVAREZ ACEVES JESÚS ANTONIO,5,3,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,"IDE, compilador"
-16,3DSAA,Diurno,ÉTICA,DELGADO OROZCO OCTAVIO,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-17,3DSA,Diurno,ÉTICA,MTANOUS VILLARREAL ALMA BELICA,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-18,4DSA,Diurno,ALGORITMOS DE ORDENAMIENTO Y BÚSQUEDA,NEVAREZ ACEVES JESÚS ANTONIO,5,3,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-19,4NSB,Nocturno,ALGORITMOS DE ORDENAMIENTO Y BÚSQUEDA,CHIO BENAVIDES SANTIAGO,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-20,4DSA,Diurno,BASE DE DATOS I,MESTA AGUILAR OSCAR FORTUNATO,5,3,laboratorio_redes_cisco,computadoras_escritorio;pantalla;pizarron_blanco,"MySQL/PostgreSQL, MySQL Workbench"
-21,4NSB,Nocturno,BASE DE DATOS I,CASTILLA ESPINOZA ROSA MARÍA,5,2,laboratorio_redes_cisco,computadoras_escritorio;pantalla;pizarron_blanco,"MySQL/PostgreSQL, MySQL Workbench"
-22,4NSB,Nocturno,CÁLCULO MULTIVARIABLE,GARCIA ESPARZA LAURA MONICA MONSERRAT,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-23,4DSA,Diurno,CÁLCULO MULTIVARIABLE,HERNÁNDEZ OVALLE RAUL MIGUEL,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-24,4DSA,Diurno,ESTADÍSTICA,MENDOZA ZAMORA MIGUEL ÁNGEL,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-25,4NSB,Nocturno,ESTADÍSTICA,ORTÍZ LEOS GABRIELA DEL CARMEN,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-26,4NSB,Nocturno,ELECTRICIDAD Y MAGNETISMO,LIMONES MAGALLANES JORGE,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-27,4DSA,Diurno,ELECTRICIDAD Y MAGNETISMO,PÉREZ GOMEZ GAONA OCTAVIO,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-28,5NSB,Nocturno,ÁLGEBRA LINEAL,CERDA DURAN ISAAC ESAU,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-29,5DSA,Diurno,ÁLGEBRA LINEAL,SALAS RAMOS BRENDA MARGARITA,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-30,5NSB,Nocturno,BASE DE DATOS II,CASTILLA ESPINOZA ROSA MARÍA,5,2,laboratorio_redes_cisco,computadoras_escritorio;pantalla;pizarron_blanco,"MySQL/PostgreSQL, MySQL Workbench"
-31,5DSA,Diurno,BASE DE DATOS II,FLORES ZARAGOZA URBANO DE JESÚS,5,2,laboratorio_redes_cisco,computadoras_escritorio;pantalla;pizarron_blanco,"MySQL/PostgreSQL, MySQL Workbench"
-32,5DSA,Diurno,ECUACIONES DIFERENCIALES,PÉREZ GOMEZ GAONA OCTAVIO,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-33,5NSB,Nocturno,ECUACIONES DIFERENCIALES,SANCHEZ CONTRERAS PAOLA ALEJANDRINA,5,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-34,5DSA,Diurno,EVALUACIÓN DE PROYECTOS,CISNEROS TORRES JUAN CARLOS,4,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-35,5NSB,Nocturno,EVALUACIÓN DE PROYECTOS,ARELLANO TAMÉZ JOSÉ FELIX,4,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-36,5DSA,Diurno,INGENIERÍA DE SOFTWARE,SOTO MENDOZA VALERIA,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Herramienta de modelado UML
-37,5NSB,Nocturno,INGENIERÍA DE SOFTWARE,ADAME LEYVA DAVID ERNESTO,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Herramienta de modelado UML
-38,6NSB,Nocturno,ANÁLISIS Y MODELACIÓN DE SISTEMAS,RIOS WILLARS ERNESTO,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-39,7NSB,Nocturno,CALIDAD Y PRUEBAS DE SOFTWARE,TREJO GARCIA CARLOS NASSIF,5,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Herramienta de modelado UML
-40,7NSB,Nocturno,DESARROLLO SUSTENTABLE,RODRIGUEZ SANCHEZ ARUMI,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
-41,7NSB,Nocturno,DISEÑO Y ARQUITECTURA DE SOFTWARE,PÉREZ TINOCO DAVID,4,2,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Herramienta de modelado UML
-42,7NSB,Nocturno,GRAFICACIÓN Y REALIDAD VIRTUAL,FLORES HERMOSILLO BERNARDO DAVID,5,1,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,Motor grafico (Unity/Unreal)
-43,8NSB,Nocturno,ADMINISTRACIÓN DE PROYECTOS DE SOFTWARE,RIOS WILLARS ERNESTO,3,1,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,"IDE, control de versiones (Git)"
-44,8NSB,Nocturno,ADMINISTRACIÓN DE SERVIDORES,RAMOS GONZÁLEZ FRANCISCO HORACIO,3,1,laboratorio_redes_cisco,computadoras_escritorio;pantalla;pizarron_blanco,"Sistema operativo de servidor, maquinas virtuales"
-45,8NSB,Nocturno,DESARROLLO DE APLICACIONES DE CÓMPUTO MÓVIL,FLORES HERMOSILLO BERNARDO DAVID,5,2,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,IDE / entorno de desarrollo especifico
-46,9NSB,Nocturno,DESARROLLO DE APLICACIONES WEB,PÉREZ TINOCO DAVID,5,2,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,IDE / entorno de desarrollo especifico
-47,9NSB,Nocturno,DESARROLLO DE PROYECTOS DE SOFTWARE,GARCÍA RIVERA VICTOR MANUEL,5,2,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,"IDE, control de versiones (Git)"
-48,9NSB,Nocturno,DISEÑO DE COMPILADORES,LIÑAN GARCIA ERNESTO,3,1,aula_regular,pantalla;pizarron_blanco;bancas_individuales,"IDE, herramientas ANTLR/Flex-Bison"
+clase_id,grupo,turno_inferido,materia,profesor,horas_semana,num_sesiones_requeridas,alumnos_estimado,tipo_aula_requerido,equipamiento_requerido,software_requerido
+1,1DSAA,Diurno,FÍSICA I,RODRIGUEZ FLORES MARIA FERNANDA,5,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+2,2DSA,Diurno,ADMINISTRACIÓN DE LAS ORGANIZACIONES,ALFÉREZ RODRÍGUEZ EVARISTO,3,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+3,2DSAA,Diurno,ADMINISTRACIÓN DE LAS ORGANIZACIONES,LUNA RENTERÍA JOSÉ LUIS,3,1,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+4,2DSAA,Diurno,CÁLCULO DIFERENCIAL,CORTÉS RAYGOZA CRISTINA ELIZABETH,5,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+5,2DSA,Diurno,CÁLCULO DIFERENCIAL,SALAS RAMOS BRENDA MARGARITA,5,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+6,2DSAA,Diurno,COMUNICACIÓN EFECTIVA,HERRERA HERNANDEZ ALEJANDRO,3,1,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+7,2DSA,Diurno,COMUNICACIÓN EFECTIVA,LUNA RENTERÍA JOSÉ LUIS,3,1,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+8,2DSA,Diurno,FÍSICA II,RAMIREZ GOMEZ PAMELA ESTEFANY,5,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+9,2DSAA,Diurno,FÍSICA II,SALAS RAMOS BRENDA MARGARITA,5,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+10,3DSA,Diurno,CÁLCULO INTEGRAL,FLORES GONZALEZ LEONARDO,5,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+11,3DSAA,Diurno,CÁLCULO INTEGRAL,HERNÁNDEZ OVALLE RAUL MIGUEL,5,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+12,3DSA,Diurno,CONTABILIDAD FINANCIERA,FARIAS VALDES LUIS,3,1,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+13,3DSAA,Diurno,CONTABILIDAD FINANCIERA,JIMENEZ SOLIS LESLIE BETHSAYRA,3,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+14,3DSAA,Diurno,ESTRUCTURA DE DATOS,ADAME LEYVA DAVID ERNESTO,5,2,35,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,"IDE, compilador"
+15,3DSA,Diurno,ESTRUCTURA DE DATOS,NEVAREZ ACEVES JESÚS ANTONIO,5,3,35,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,"IDE, compilador"
+16,3DSAA,Diurno,ÉTICA,DELGADO OROZCO OCTAVIO,3,1,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+17,3DSA,Diurno,ÉTICA,MTANOUS VILLARREAL ALMA BELICA,3,1,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+18,4DSA,Diurno,ALGORITMOS DE ORDENAMIENTO Y BÚSQUEDA,NEVAREZ ACEVES JESÚS ANTONIO,5,3,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+19,4NSB,Nocturno,ALGORITMOS DE ORDENAMIENTO Y BÚSQUEDA,CHIO BENAVIDES SANTIAGO,5,2,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+20,4DSA,Diurno,BASE DE DATOS I,MESTA AGUILAR OSCAR FORTUNATO,5,3,35,laboratorio_redes_cisco,computadoras_escritorio;pizarron_blanco;pantalla,"MySQL/PostgreSQL, MySQL Workbench"
+21,4NSB,Nocturno,BASE DE DATOS I,CASTILLA ESPINOZA ROSA MARÍA,5,2,25,laboratorio_redes_cisco,computadoras_escritorio;pizarron_blanco;pantalla,"MySQL/PostgreSQL, MySQL Workbench"
+22,4NSB,Nocturno,CÁLCULO MULTIVARIABLE,GARCIA ESPARZA LAURA MONICA MONSERRAT,5,2,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+23,4DSA,Diurno,CÁLCULO MULTIVARIABLE,HERNÁNDEZ OVALLE RAUL MIGUEL,5,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+24,4DSA,Diurno,ESTADÍSTICA,MENDOZA ZAMORA MIGUEL ÁNGEL,3,1,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+25,4NSB,Nocturno,ESTADÍSTICA,ORTÍZ LEOS GABRIELA DEL CARMEN,3,1,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+26,4NSB,Nocturno,ELECTRICIDAD Y MAGNETISMO,LIMONES MAGALLANES JORGE,5,2,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+27,4DSA,Diurno,ELECTRICIDAD Y MAGNETISMO,PÉREZ GOMEZ GAONA OCTAVIO,5,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+28,5NSB,Nocturno,ÁLGEBRA LINEAL,CERDA DURAN ISAAC ESAU,3,1,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+29,5DSA,Diurno,ÁLGEBRA LINEAL,SALAS RAMOS BRENDA MARGARITA,3,1,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+30,5NSB,Nocturno,BASE DE DATOS II,CASTILLA ESPINOZA ROSA MARÍA,5,2,25,laboratorio_redes_cisco,computadoras_escritorio;pizarron_blanco;pantalla,"MySQL/PostgreSQL, MySQL Workbench"
+31,5DSA,Diurno,BASE DE DATOS II,FLORES ZARAGOZA URBANO DE JESÚS,5,2,35,laboratorio_redes_cisco,computadoras_escritorio;pizarron_blanco;pantalla,"MySQL/PostgreSQL, MySQL Workbench"
+32,5DSA,Diurno,ECUACIONES DIFERENCIALES,PÉREZ GOMEZ GAONA OCTAVIO,5,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+33,5NSB,Nocturno,ECUACIONES DIFERENCIALES,SANCHEZ CONTRERAS PAOLA ALEJANDRINA,5,1,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+34,5DSA,Diurno,EVALUACIÓN DE PROYECTOS,CISNEROS TORRES JUAN CARLOS,4,2,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+35,5NSB,Nocturno,EVALUACIÓN DE PROYECTOS,ARELLANO TAMÉZ JOSÉ FELIX,4,2,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+36,5DSA,Diurno,INGENIERÍA DE SOFTWARE,SOTO MENDOZA VALERIA,3,1,35,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Herramienta de modelado UML
+37,5NSB,Nocturno,INGENIERÍA DE SOFTWARE,ADAME LEYVA DAVID ERNESTO,3,1,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Herramienta de modelado UML
+38,6NSB,Nocturno,ANÁLISIS Y MODELACIÓN DE SISTEMAS,RIOS WILLARS ERNESTO,3,1,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+39,7NSB,Nocturno,CALIDAD Y PRUEBAS DE SOFTWARE,TREJO GARCIA CARLOS NASSIF,5,2,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Herramienta de modelado UML
+40,7NSB,Nocturno,DESARROLLO SUSTENTABLE,RODRIGUEZ SANCHEZ ARUMI,3,1,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Ninguno especifico
+41,7NSB,Nocturno,DISEÑO Y ARQUITECTURA DE SOFTWARE,PÉREZ TINOCO DAVID,4,2,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,Herramienta de modelado UML
+42,7NSB,Nocturno,GRAFICACIÓN Y REALIDAD VIRTUAL,FLORES HERMOSILLO BERNARDO DAVID,5,1,25,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,Motor grafico (Unity/Unreal)
+43,8NSB,Nocturno,ADMINISTRACIÓN DE PROYECTOS DE SOFTWARE,RIOS WILLARS ERNESTO,3,1,25,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,"IDE, control de versiones (Git)"
+44,8NSB,Nocturno,ADMINISTRACIÓN DE SERVIDORES,RAMOS GONZÁLEZ FRANCISCO HORACIO,3,1,25,laboratorio_redes_cisco,computadoras_escritorio;pizarron_blanco;pantalla,"Sistema operativo de servidor, maquinas virtuales"
+45,8NSB,Nocturno,DESARROLLO DE APLICACIONES DE CÓMPUTO MÓVIL,FLORES HERMOSILLO BERNARDO DAVID,5,2,25,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,IDE / entorno de desarrollo especifico
+46,9NSB,Nocturno,DESARROLLO DE APLICACIONES WEB,PÉREZ TINOCO DAVID,5,2,25,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,IDE / entorno de desarrollo especifico
+47,9NSB,Nocturno,DESARROLLO DE PROYECTOS DE SOFTWARE,GARCÍA RIVERA VICTOR MANUEL,5,2,25,laboratorio_computo,computadoras_escritorio;pantalla;pizarron_blanco,"IDE, control de versiones (Git)"
+48,9NSB,Nocturno,DISEÑO DE COMPILADORES,LIÑAN GARCIA ERNESTO,3,1,25,aula_regular,pantalla;pizarron_blanco;bancas_individuales,"IDE, herramientas ANTLR/Flex-Bison"

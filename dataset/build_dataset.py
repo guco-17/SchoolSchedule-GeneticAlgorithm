@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 import csv
 import os
 
@@ -101,11 +100,10 @@ CAPACIDAD_POR_TIPO = {
 EQUIPAMIENTO_POR_TIPO = {
     "aula_regular": "pantalla;pizarron_blanco;bancas_individuales",
     "laboratorio_computo": "computadoras_escritorio;pantalla;pizarron_blanco",
-    "laboratorio_redes_cisco": "computadoras_escritorio;pantalla;pizarron_blanco",
+    "laboratorio_redes_cisco": "computadoras_escritorio;pizarron_blanco;pantalla",
 }
 
-# Palabras clave -> tipo de aula requerido por la clase, y software tipico.
-# (Mismo criterio, inferido, que en la version anterior del dataset.)
+
 REQUISITOS_POR_MATERIA = {
     "PROGRAMACION": ("laboratorio_computo", "IDE, compilador/interprete segun lenguaje del curso"),
     "PROGRAMACIÓN": ("laboratorio_computo", "IDE, compilador/interprete segun lenguaje del curso"),
@@ -141,6 +139,7 @@ def inferir_turno(grupo):
         return "Desconocido"
     return {"D": "Diurno", "N": "Nocturno"}.get(letras[0].upper(), "Desconocido")
 
+ALUMNOS_ESTIMADO_POR_TURNO = {"Diurno": 35, "Nocturno": 25, "Desconocido": 30}
 
 def escribir_csv(nombre, encabezado, filas):
     ruta = os.path.join(OUT_DIR, nombre)
@@ -199,16 +198,17 @@ def main():
         tipo_req, software_req = requisitos_de(g["materia"])
         turno = inferir_turno(g["grupo"])
         num_sesiones = len(g["horarios"])
+        alumnos_estimado = ALUMNOS_ESTIMADO_POR_TURNO[turno]
         filas_clases.append((
             idx, g["grupo"], turno, g["materia"], g["maestro"],
-            g["horas"], num_sesiones, tipo_req,
+            g["horas"], num_sesiones, alumnos_estimado, tipo_req,
             EQUIPAMIENTO_POR_TIPO[tipo_req], software_req,
         ))
     escribir_csv(
         "clases.csv",
         ["clase_id", "grupo", "turno_inferido", "materia", "profesor",
-         "horas_semana", "num_sesiones_requeridas", "tipo_aula_requerido",
-         "equipamiento_requerido", "software_requerido"],
+         "horas_semana", "num_sesiones_requeridas", "alumnos_estimado",
+         "tipo_aula_requerido", "equipamiento_requerido", "software_requerido"],
         filas_clases,
     )
 
