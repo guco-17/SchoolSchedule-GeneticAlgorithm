@@ -92,7 +92,7 @@ def tipo_de_aula(aula):
 
 
 CAPACIDAD_POR_TIPO = {
-    "aula_regular": 35,
+    "aula_regular": 38,
     "laboratorio_computo": 32,
     "laboratorio_redes_cisco": 35,
 }

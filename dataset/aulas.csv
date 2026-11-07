@@ -1,22 +1,22 @@
 aula_id,tipo,capacidad_estimada,equipamiento
-AULA 10,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 13,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 14,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 15,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 17,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 18,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 20,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 22,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 23,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 25,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
+AULA 10,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 13,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 14,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 15,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 17,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 18,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 20,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 22,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 23,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 25,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
 AULA 29 CISCO I,laboratorio_redes_cisco,35,computadoras_escritorio;pizarron_blanco;pantalla
-AULA 3,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
+AULA 3,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
 AULA 30 CISCO II,laboratorio_redes_cisco,35,computadoras_escritorio;pizarron_blanco;pantalla
 AULA 31 LAB CB,laboratorio_computo,32,computadoras_escritorio;pantalla;pizarron_blanco
 AULA 33 LAB INF,laboratorio_computo,32,computadoras_escritorio;pantalla;pizarron_blanco
 AULA 34 LAB C.C,laboratorio_computo,32,computadoras_escritorio;pantalla;pizarron_blanco
-AULA 5,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 6,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 7,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 8,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
-AULA 9,aula_regular,35,pantalla;pizarron_blanco;bancas_individuales
+AULA 5,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 6,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 7,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 8,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
+AULA 9,aula_regular,38,pantalla;pizarron_blanco;bancas_individuales
